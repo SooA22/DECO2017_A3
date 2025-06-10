@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Fried Chicken",
+    "image": "/images/recipes/fried chicken.jpg",
+    "ingredients": [
+      "Chicken pieces",
+      "Buttermilk",
+      "Flour",
+      "Salt",
+      "Pepper",
+      "Paprika",
+      "Garlic powder",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Soak chicken in buttermilk for at least 1 hour.",
+      "Mix flour and spices in a bowl.",
+      "Dredge chicken in flour mixture.",
+      "Heat oil in a pan to 175°C (350°F).",
+      "Fry chicken until golden and cooked through.",
+      "Drain on paper towels and serve."
+    ],
+    "time": "45 minutes",
+    "category": "Main",
+    "difficulty": "Medium",
+    "tags": ["Chicken", "Fried", "Comfort Food"]
+  },
+  {
+    "title": "Pad Thai",
+    "image": "/images/recipes/pad thai.jpg",
+    "ingredients": [
+      "Rice noodles",
+      "Chicken or shrimp",
+      "Eggs",
+      "Bean sprouts",
+      "Peanuts",
+      "Green onions",
+      "Pad Thai sauce",
+      "Lime wedges"
+    ],
+    "steps": [
+      "Soak rice noodles in warm water until soft, then drain.",
+      "Cook chicken or shrimp in a pan.",
+      "Add eggs and scramble.",
+      "Add noodles and Pad Thai sauce, stir-fry until mixed.",
+      "Add bean sprouts and green onions, cook for 1-2 minutes.",
+      "Serve with peanuts and lime wedges."
+    ],
+    "time": "30 minutes",
+    "category": "Thai",
+    "difficulty": "Easy",
+    "tags": ["Noodles", "Thai", "Quick"]
+  },
+  {
+    "title": "Spaghetti Bolognese",
+    "image": "/images/recipes/spaghetti.jpg",
+    "ingredients": [
+      "Spaghetti",
+      "Ground beef",
+      "Onion",
+      "Garlic",
+      "Tomato sauce",
+      "Olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Boil spaghetti until al dente.",
+      "Sauté onion and garlic in olive oil.",
+      "Add ground beef and cook until browned.",
+      "Pour in tomato sauce, season with salt and pepper, and simmer.",
+      "Serve sauce over spaghetti."
+    ],
+    "time": "40 minutes",
+    "category": "Pasta",
+    "difficulty": "Easy",
+    "tags": ["Pasta", "Italian", "Beef"]
+  },
+  {
+    "title": "Caesar Salad",
+    "image": "/images/recipess/salad.jpg",
+    "ingredients": [
+      "Romaine lettuce",
+      "Croutons",
+      "Parmesan cheese",
+      "Caesar dressing",
+      "Chicken breast (optional)"
+    ],
+    "steps": [
+      "Wash and chop lettuce.",
+      "Grill chicken breast and slice (if using).",
+      "Toss lettuce with Caesar dressing.",
+      "Add croutons and parmesan cheese.",
+      "Top with sliced chicken and serve."
+    ],
+    "time": "20 minutes",
+    "category": "Salad",
+    "difficulty": "Easy",
+    "tags": ["Salad", "Healthy", "Quick"]
+  },
+  {
+    "title": "Tacos",
+    "image": "/images/recipes/taco.jpg",
+    "ingredients": [
+      "Taco shells",
+      "Ground beef or chicken",
+      "Taco seasoning",
+      "Lettuce",
+      "Tomato",
+      "Cheddar cheese",
+      "Sour cream",
+      "Salsa"
+    ],
+    "steps": [
+      "Cook ground meat with taco seasoning.",
+      "Warm taco shells.",
+      "Fill shells with meat, lettuce, tomato, cheese.",
+      "Top with sour cream and salsa."
+    ],
+    "time": "25 minutes",
+    "category": "Mexican",
+    "difficulty": "Easy",
+    "tags": ["Mexican", "Quick", "Beef", "Chicken"]
+  },
+  {
+    "title": "Pancakes",
+    "image": "/images/recipes/pancake.jpg",
+    "ingredients": [
+      "Flour",
+      "Baking powder",
+      "Sugar",
+      "Milk",
+      "Egg",
+      "Butter",
+      "Salt"
+    ],
+    "steps": [
+      "Mix dry ingredients in a bowl.",
+      "Whisk in milk, egg, and melted butter.",
+      "Heat a pan and pour in batter.",
+      "Cook until bubbles form, then flip.",
+      "Serve with syrup or fruit."
+    ],
+    "time": "20 minutes",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "tags": ["Breakfast", "Quick", "Sweet"]
+  }
+]
